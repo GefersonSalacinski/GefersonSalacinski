@@ -1,9 +1,9 @@
-## olá! Desenvolvedor Frontend👋
+## Geferson Salacinski👋
 
 
-# 👨‍💻 Programador Web | Desenvolvedor Frontend
+# Desenvolvedor Frontend
 
-Olá! Me chamo **Geferson Salacinski**, sou de **São Paulo** e atuo como **Programador Web** com foco em **desenvolvimento frontend**. Sou apaixonado por criar interfaces modernas, intuitivas e funcionais que realmente geram valor para quem usa. Tenho experiência sólida no desenvolvimento de aplicações web responsivas e estou sempre em busca de aprimoramento técnico. Acredito que tecnologia é uma ponte entre ideias e inovação — e é nessa ponte que gosto de construir. Conheça mais sobre mim:
+Olá! Me chamo **Geferson Salacinski**, sou de **São Paulo** e atuo como **Programador Web** com foco em **desenvolvimento frontend**. Atualmente estou cursando Ciencia da Computação na UNIP (Universidade Paulista) Sou apaixonado por criar interfaces modernas, intuitivas e funcionais que realmente geram valor para quem usa. Tenho experiência sólida no desenvolvimento de aplicações web responsivas e estou sempre em busca de aprimoramento técnico. Acredito que tecnologia é uma ponte entre ideias e inovação — e é nessa ponte que gosto de construir. Conheça mais sobre mim:
 
 - 🌐 [gefersondesenvolvedor.com](https://gefersondesenvolvedor.com/)
 - 💼 [linkedin.com/in/geferson-salacinski](https://www.linkedin.com/in/geferson-salacinski/?originalSubdomain=br)
