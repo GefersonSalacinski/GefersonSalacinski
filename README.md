@@ -3,7 +3,7 @@
 
 # Desenvolvedor Frontend
 
-Olá! Me chamo **Geferson Salacinski**, sou de **São Paulo** e atuo como **Programador Web** com foco em **desenvolvimento frontend**. Atualmente estou cursando **Ciencia da Computação** na UNIP (Universidade Paulista). Sou apaixonado por criar interfaces modernas, intuitivas e funcionais que realmente geram valor para quem usa. Tenho experiência sólida no desenvolvimento de aplicações web responsivas e estou sempre em busca de aprimoramento técnico. Acredito que tecnologia é uma ponte entre ideias e inovação — e é nessa ponte que gosto de construir. Conheça mais sobre mim:
+Olá! Me chamo **Geferson Salacinski**, tenho 37 anos, sou de **São Paulo** e atuo como **Programador Web**, especializado em **desenvolvimento frontend**. Atualmente, curso **Ciência da Computação** na **UNIP (Universidade Paulista)**, onde aprofundo meus conhecimentos em lógica, estruturas de dados e arquitetura de sistemas. Tenho uma verdadeira paixão por criar interfaces modernas, funcionais e intuitivas, sempre com foco na experiência do usuário. Ao longo da minha trajetória, desenvolvi aplicações web responsivas que aliam desempenho e design, entregando soluções que realmente fazem a diferença. Acredito que a tecnologia é uma ponte entre ideias e transformação, e é exatamente nessa construção que encontro minha motivação diária. Se quiser conhecer mais sobre meu trabalho, fique à vontade para explorar meus projetos e redes profissionais.
 
 - 🌐 [gefersondesenvolvedor.com](https://gefersondesenvolvedor.com/)
 - 💼 [linkedin.com/in/geferson-salacinski](https://www.linkedin.com/in/geferson-salacinski/?originalSubdomain=br)
@@ -29,7 +29,7 @@ Acompanhe meus projetos e colabore comigo no GitHub clicando nos badges abaixo:
 
 ---
 
-## 🚀 Tecnologias que domino
+## 🚀 Tecnologias
 
 <p align="left">
   <img title="HTML5" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
