@@ -42,6 +42,8 @@ Acompanhe meus projetos e colabore comigo no GitHub clicando nos badges abaixo:
   <img title="AWS" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"/>
   <img title="Google Drive API" alt="Google Drive" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
   <img title="WordPress" alt="WordPress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
+  <img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img title="GitHub" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
 
 ---
