@@ -44,6 +44,9 @@ Acompanhe meus projetos e colabore comigo no GitHub clicando nos badges abaixo:
   <img title="WordPress" alt="WordPress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
   <img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img title="GitHub" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img title="R" alt="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+  <img title="SQL" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img title="Tableau" alt="Tableau" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg"/>
 </p>
 
 ---
